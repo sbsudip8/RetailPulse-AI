@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/RetailPulse-AI/mlruns/910439454391580487/cf93f2bfd8f7415f806547c4f9f9f333/artifacts
+end_time: 1780995474170
+entry_point_name: ''
+experiment_id: '910439454391580487'
+lifecycle_stage: active
+run_id: cf93f2bfd8f7415f806547c4f9f9f333
+run_name: auto_retrain
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780995471750
+status: 3
+tags: []
+user_id: codespace

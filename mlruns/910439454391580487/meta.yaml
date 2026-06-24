@@ -1,0 +1,9 @@
+artifact_location: file:///workspaces/RetailPulse-AI/mlruns/910439454391580487
+creation_time: 1780995469767
+effective_trace_archival_retention: null
+experiment_id: '910439454391580487'
+last_update_time: 1780995469767
+lifecycle_stage: active
+name: RetailPulse-Retrain
+trace_location: null
+workspace: default
