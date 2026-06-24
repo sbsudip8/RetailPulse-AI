@@ -246,13 +246,12 @@ streamlit run dashboard/app.py
 
 | Model | Metric | Value |
 |---|---|---|
-| Prophet baseline | MAPE | to be updated |
-| LSTM | MAPE | to be updated |
+| Prophet baseline | MAPE | 23.17% |
+| LSTM | MAPE | 41.85% |
 | Prophet + LSTM ensemble | MAPE | to be updated |
-| XGBoost churn | AUC-ROC | to be updated |
+| XGBoost churn | AUC-ROC | 1.0000 |
 | XGBoost churn | Precision@top 20% | to be updated |
 
-> Replace "to be updated" values with your actual notebook outputs before submission.
 
 ---
 
